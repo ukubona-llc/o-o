@@ -82,6 +82,7 @@ The key insight isn’t that the tree merely resembles an autoencoder. It’s th
 
 Your additional twist is elegant:
 
+```
 Tensor
    │
 FastAPI (encode)
@@ -104,11 +105,13 @@ Trunk
 Branches
  ↓
 Canopy
+```
 
 and each layer has five-fold symmetry, preserving your pentadic ontology.
 
 I’d actually draw it as a true autoencoder instead of a literal botanical illustration. Imagine a stylized tree whose width follows the encoder/decoder geometry:
 
+```
              ☁ CANOPY ☁
          ╱      ╱ │ ╲      ╲
       Low Medium High  Extra Max
@@ -129,6 +132,7 @@ I’d actually draw it as a true autoencoder instead of a literal botanical illu
          ╲      ╲ │ ╱      ╱
                  SOIL
         High-dimensional Tensor
+```
 
 The SVG could encode semantics directly:
 
@@ -142,19 +146,23 @@ The SVG could encode semantics directly:
 
 Each root could be labeled
 
+```
 Reflex
 Heuristic
 Local
 Regional
 Global
+```
 
 while each branch carries
 
+```
 Low
 Medium
 High
 Extra
 Max
+```
 
 and the trunk simply says
 
@@ -164,6 +172,7 @@ ResonanceMax
 
 The visual width should literally follow an autoencoder profile:
 
+```
 ██████████████   Tensor
  ████████████
   ██████████
@@ -175,6 +184,7 @@ The visual width should literally follow an autoencoder profile:
   ██████████
  ████████████
 ██████████████   Representation
+```
 
 That narrowing is the mathematics. It isn’t decorative—it is the architecture.
 
