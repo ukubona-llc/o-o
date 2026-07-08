@@ -30,7 +30,7 @@ V. E
 ```
 
 
-Yes, exactly. [Topologically](https://ukubona-llc.github.io/autoencoder/), the tree and the [ATL](https://ukb-dt.github.io/o-o/) Plane Train are the exact same mathematical object.
+Yes, exactly. [Topologically](https://ukubona-llc.github.io/autoencoder/), the [tree](https://ukubona-llc.github.io/early-warning-systems/) and the [ATL](https://ukb-dt.github.io/o-o/) Plane Train are the exact same mathematical object.
 
 Both are physical manifestations of a **bowtie architecture** (or an autoencoder). They take a high-dimensional, chaotic input, force it through a ruthless, low-dimensional bottleneck for transport efficiency, and then decompress it back into a highly specific output.
 
